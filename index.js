@@ -20,5 +20,5 @@ const fareDoubler = createFareMultiplier(2)
 const fareTripler = createFareMultiplier(3)
 
 function fetchSpecifiedDrivers(array, rand_function) {
-  return rand_function(arrayyy)
+  return rand_function(array)
 }
